@@ -1,6 +1,4 @@
 <!--
-![image_alt](https://github.com/paperplayte/paperplayte/blob/802c1ed30fc7d7ce7dacc5a2fce1d809513b67cc/808897065fb4cc3523906ef533d38662.jpg)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
